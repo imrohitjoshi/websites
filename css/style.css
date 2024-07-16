@@ -1,0 +1,338 @@
+
+
+
+/*benefits of dental implant */
+
+html, body
+{
+    overflow-x: hidden;
+}
+.font-size{
+    font-size:40px !important;
+}
+
+.bg-design{
+    background-color: white !important;
+    border-radius: 20px;
+    padding: 10px;
+    
+
+}
+a {
+text-decoration:none !important;
+}
+@media only screen and (min-width: 768px) {
+   
+    .display-block 
+    {
+     display: none;
+    }
+  }
+  
+  @media only screen and (min-width: 768px) {
+   
+    .mart 
+    {
+     margin-left:18px;
+    }
+  }
+
+  @media only screen and (min-width: 768px) {
+   
+    .marw 
+    {
+     margin-right:18px;
+    }
+  }
+  @media only screen and (max-width: 767px) {
+   
+    .font-mobile
+    {
+     font-size: 14px;
+    }
+  }
+  @media only screen and (min-width: 768px) {
+   
+    .display-desktop
+    {
+     display: none;
+    }
+  }
+  @media only screen and (max-width: 767px) {
+   
+    .display-mobile
+    {
+        display: none;
+    }
+  }
+
+.text-red{
+    color:#FC570A;
+}
+
+
+.bg-detail{
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #FC570A;
+    padding:px;
+}
+.text-color{
+    color:#0044FF;
+}
+
+@media only screen and (min-width: 768px){
+   .margin-desk {
+margin-left: 40px;
+}
+}
+.bg-imgt{
+color:#FC570A;
+}
+
+.bg-dg{
+    margin: 40px;
+}
+
+.bg-font{
+    font-size: 40px; ;
+}
+h6{
+    margin-top: 0.2rem !important;
+    margin-bottom: 0.2rem !important;
+}
+
+ /*------------------for logo slider-------------------- */
+ #owl-demo .item{
+    margin-top: 40px;
+  }
+   #owl-demo .item img{
+    display: block;
+    width:100%;
+    height: auto;
+  
+  } 
+.owl-carousel .owl-item img {
+    display: block;
+    width: 100% !important;
+} 
+.about-ht{
+height:300px !important;
+}
+.nav-wt{
+color:#000000 !important;
+}
+
+.owl-dots{
+    display: none;
+}
+.owl-nav{
+    display: none; 
+}
+
+.Traffic{
+    font-size: 43px;
+}
+.box{
+    padding-top: 85px;
+}
+.campare{
+    display: flex;
+    justify-content: space-between;
+}
+.increase{
+    font-size: 40px;
+    color: green;
+}
+.decrease{
+    font-size: 40px;
+    color: red;
+}
+.footcolor{
+    background-color: black;
+    border-bottom: 1px solid white;
+}
+.foot{
+    font-size: 13px;
+}
+@media only screen and (max-width: 576px){
+  
+    .px-5 {
+        padding-right: 1rem!important;
+        padding-left: 1rem!important;
+    }
+    .Traffic {
+        font-size: 27px;
+    }
+    .ser{
+        padding-left: 35px;
+    }
+    .py-4 {
+        padding-top: 0.5rem!important;
+        padding-bottom: 0.5rem!important;
+    }
+}
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: 2;
+    border-radius: 9px;
+    padding-right: 40px;
+    padding-left: 20px;
+}
+.rise{
+    padding-left: 80px;
+}
+.accordion-item {
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,.125);
+    margin-top: 9px;
+}
+.click{
+    padding-top: 167px;
+    font-size: 57px;
+}
+.role{
+    font-size: 35px;
+}
+.bggrey{
+    background-color: rgb(204, 201, 201);
+}
+.pay{
+    font-size: 38px;
+    font-weight: bold;
+}
+.margin-test{
+    margin-left:100px !important ; 
+    
+    margin-right:100px !important ; 
+
+}
+.seobackground{
+    background-color: #F9EFEF;
+    padding-top:80px;
+    padding-bottom:80px  !important;
+}
+.cards{
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease;
+}
+.cards:hover{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+.cards:hover button{
+    background-color: #ffa200;
+    color: white;
+}
+.more{
+    padding-top: 190px;
+}
+.formborderseo {
+    border: 2px solid black;
+    padding: 75px;
+    background-color: rgba(255, 255, 255, 0.534);
+    border-radius: 25px;
+    box-shadow: 0 32px 36px rgba(10, 12, 11, 0.6);
+}
+.formborderseo .form-control {
+    display: block;
+    width: 100%;
+    padding: 0.5rem 0.5rem;
+    font-size: 0.75rem;
+    font-weight: 400;
+    line-height: 2.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius:0px;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.merchant{
+    padding-top: 120px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+/*------------------*/
+/* ---------------------whatsapp icon--------------------------- */
+.whatsap {
+    position: fixed;
+    top: 60%;
+    right: 3%;
+    opacity: 0;
+    cursor: pointer;
+    text-decoration: none;
+    color: #fff;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    line-height: 48px;
+    z-index: 100;
+    -webkit-transition: .5s;
+    transition: .5s;
+}
+.whatsap {
+    top: 95%;
+    -webkit-transform: translateY(-95%);
+    transform: translateY(-95%);
+    opacity: 1;
+    visibility: visible;
+}
+
+/* ------------------- */
+/* ---------------------whatsapp icon--------------------------- */
+.whatsap1 {
+    position: fixed;
+    top: 60%;
+    left: 3%;
+    opacity: 0;
+    cursor: pointer;
+    text-decoration: none;
+    color: #fff;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    line-height: 48px;
+    z-index: 100;
+    -webkit-transition: .5s;
+    transition: .5s;
+}
+.whatsap1 {
+    top: 95%;
+    -webkit-transform: translateY(-95%);
+    transform: translateY(-95%);
+    opacity: 1;
+    visibility: visible;
+}
+
+/* ------------------- */
+@media only screen and (min-width: 768px) {
+   
+    .di-none 
+    {
+     display: none;
+    }
+  }
+
+
+  @media only screen and (max-width: 768px){
+  .di-none2
+  {
+    display: none;
+  }
+  }
